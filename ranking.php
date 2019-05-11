@@ -28,7 +28,7 @@ if($sql->rowCount() >0){
     <div class="container col-12">
         <header>
             <div class="title text-center">
-                <h2>Enquete</h2>
+                <h2><strong>Enquete</strong></h2>
                 <br>
                 <h4>Ranking</h4>
             </div>
